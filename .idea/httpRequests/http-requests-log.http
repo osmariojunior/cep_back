@@ -1,0 +1,33 @@
+POST http://localhost:8880/api/enderecos
+Content-Type: application/json
+
+{
+    "oi": "oi"
+}
+
+<> 2020-10-23T091040.200.json
+
+###
+
+POST http://localhost:8880/api/enderecos
+Content-Type: application/json
+
+{
+    "oi": "oi"
+}
+
+<> 2020-10-23T091010.200.json
+
+###
+
+POST http://localhost:8880/api/
+Content-Type: application/json
+
+{
+    "oi": "oi"
+}
+
+<> 2020-10-23T090947.301.html
+
+###
+

@@ -1,0 +1,8 @@
+POST http://localhost:8880/api/enderecos
+Content-Type: application/json
+
+{
+    "oi": "oi"
+}
+
+###
